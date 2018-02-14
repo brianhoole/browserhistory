@@ -14,3 +14,14 @@ img{
   float: left;
   margin-right: 10px;
 }
+
+.column{
+  float: left;
+  width: 300px;
+}
+
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
