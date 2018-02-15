@@ -10,6 +10,10 @@ h1, h2{
   font-family: "Oswald", sans-serif;
 }
 
+ .image-size{
+   width: 100px;
+ }
+
 img{
   float: left;
   margin-right: 10px;
